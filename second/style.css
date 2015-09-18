@@ -1,4 +1,7 @@
 .container{
+    position: relative;
+    background-color: lightgray;
+    
 }
 
 .whiteBox {
@@ -29,6 +32,7 @@
 }
 
 .footer {
+    /*padding: -SOMETHINGpx;*/
 }
 
 .footerText {
