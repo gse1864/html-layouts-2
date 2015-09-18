@@ -1,0 +1,70 @@
+.container {
+    min-height: 100%;
+}
+
+.row1 {
+    height: 90px;
+    width: 30%;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.row2a {
+    height: 180px;
+    width: 33.33%;
+    display: inline-block;
+}
+
+.row2b {
+    height: 180px;
+    width: 66.66%;
+    display: inline-block;
+    float: right;
+    margin-bottom: 7px;
+}
+
+.maintext {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    line-height: 1.25em;
+    font-size: .8em;
+}
+
+.row3a {
+    margin-top: 7px;
+    height: 90px;
+    width: 100%;
+    display: inline-block;
+}
+
+.row3b {
+    height: 90px;
+    width: 33.33%;
+    float: right;
+    display: inline-block;
+}
+
+.inset {
+    height: 90px;
+    width: 70%;
+    margin-left: 15.5%;
+    margin-right: 15.5%;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: dodgerblue;
+}
+
+#gray {
+    background-color: dimgray;
+}
+
+p {
+    font-family: sans-serif;
+    color: gray;
+}
