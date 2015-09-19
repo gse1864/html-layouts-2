@@ -1,0 +1,44 @@
+.container {
+    position: relative;
+    min-height: 100%;
+    padding: 50px, 10px, 50px, 10px;
+}
+
+header {
+    background-color: dimgray;
+}
+
+.headerText {
+    color: white;
+    font-family: sans-serif;
+}
+
+.col1 {
+    float: left;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-family: sans-serif;
+    color: dimgray;
+}
+
+p {
+    font-family: sans-serif;
+    color: darkgray;
+}
+
+.col2 {
+    float: right;
+}
+
+.grayBox {
+    background-color: lightgray;
+    height: 100px;
+}
+
+footer {
+    background-color: dimgray;
+    position: absolute;
+    bottom: 0;
+}
